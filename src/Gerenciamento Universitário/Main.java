@@ -6,6 +6,5 @@ public class Main {
        impressao.laboratorios();
        impressao.conjProfessor();
        impressao.conjAlunos();
-
     }
 }
